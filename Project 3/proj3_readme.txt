@@ -1,6 +1,6 @@
 #### CS 519 Project 3 Xiaonan Zhu
 
-The data set I used is subject1_ideal.log in REALDISP Activity Recognition Dataset (https://archive.ics.uci.edu/ml/datasets/
+The time-series data set I used is subject1_ideal.log in REALDISP Activity Recognition Dataset (https://archive.ics.uci.edu/ml/datasets/
 REALDISP+Activity+Recognition+Dataset) Dr. Cao provided. 
 
 
